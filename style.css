@@ -1,0 +1,56 @@
+/*
+ Theme Name:   Astra Child
+ Theme URI:    https://storyscaping.paajensen.dk
+ Description:  Astra Child Theme
+ Author:       Pernille 
+ Author URI:   https://storyscaping.paajensen.dk
+ Template:     astra
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         custom-menu, Eget logo, Underholdning, En kolonne, To kolonner, Venstre sidebar, E-Commerce, Højre sidebar, Egne farver, Editor-stylesheet, Udvalgte billeder, Fuld bredde, microformats, Indlægsformater, rtl-language-support, Temafunktioner, threaded-comments, translation-ready, Blog
+ Text Domain:  astrachild
+*/
+
+body{
+  	margin-top: 0px; 
+    margin-bottom: 0px; 
+    margin-left: 0px; 
+    margin-right: 0px;
+    padding: 0;
+}
+.raekke1{
+  background-color:#C0D4C4;
+}
+.infographic{
+  background-color:#F5F2F2;
+}
+
+#knap{
+  width:200px;
+  height:45px;
+  background-color:#574938;
+  color:#f7f7f7;
+  font-size:1.4rem;
+  border-radius:10px;
+  align-items:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
